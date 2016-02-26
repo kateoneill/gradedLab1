@@ -1,0 +1,4 @@
+Issues encountered:
+				Board was slow to show up on wi-fi connections, had to reset board a number of 				times.
+
+				I got the sketch online, one of the pins originally used for connecting sensors 				was number 13, but I couldn’t identify that port as there wasn’t one clearly 				labelled 13 so I just changed the number.
